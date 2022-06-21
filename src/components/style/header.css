@@ -1,0 +1,70 @@
+.header1{
+    box-shadow: 0 4px 2px -2px gray;
+    box-shadow: rgb(67, 162, 197) 0px 7px 29px -2px;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+  }
+  .header-r {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 0.8rem;
+  }
+  .header-r-profile {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .header-r-icon{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgb(185, 230, 246) 0px 7px 10px 0px;
+  }
+  .header-r-profile-info h5{
+    padding: 0;
+    margin: 0;
+  }
+  .header-r-profile-info p{
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+    font-weight: 100;
+  }
+
+  .header-2-left{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 0.8rem;
+  
+}
+
+.header-2-left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.header-2-div {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 0.5rem;
+    font-weight: 500;
+  }
+
+
+.left-1{
+    color: blue;
+  }
+
+.header-2-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}

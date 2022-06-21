@@ -1,0 +1,32 @@
+.pie-cart{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    box-shadow: rgb(100, 193, 227) 0px 7px 10px 0px;
+    padding: 1rem;
+}
+.pie-cart-first-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+.pie-cart-first{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pie-cart-last{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pie-cart-last-prim{
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
